@@ -5,7 +5,7 @@
     "path": "Plugins/Test.zip",
     "formats": ["VST3", "LV2", "CLAP"],
     "type": "fx",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "enable_gem": false,
     "enable_sfizz": false,
     "enable_ffmpeg": false
